@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">MyApp</string>
-    <string name="hello_world">App Androidx</string>
-
+    <string name="app_name">Navigation Bar Linxy</string>
+    <string name="hello_world">Não se esqueça de curtir nosso projeto e compartilhar com seus amigos ❤️. \n
+		https://github.com/GomdimApps/AIDE-Androidx-Template
+		</string>
+	<string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
